@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Arghya Das  
 
-<!--
-**arghyadas22-rgb/arghyadas22-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer  
 
-Here are some ideas to get you started:
+📍 Jessore, Bangladesh  
+📧 arghya1842004@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+I am a passionate frontend developer who loves building modern and responsive web applications.
+
+- 🌱 I’m currently exploring Next.js  
+- 💻 Working on web development projects  
+- ⚡ I enjoy learning new technologies and solving problems  
+
+---
+
+## 🛠️ Skills  
+![My Skills](html,css,js,react,nodejs,git,github)
+
+---
+
+## 🌐 Connect with me  
+www.linkedin.com/in/arghya-babu  
+
+---
+
+## 📊 GitHub Stats  
+![Arghya's GitHub stats](https://github-readme-stats.vercel.app/api?username=arghyadas22-rgb&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadas22-rgb&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Current Activities  
+- 🚀 Building projects with React  
+- 🌐 Learning Next.js  
+- 📚 Improving problem-solving skills  
