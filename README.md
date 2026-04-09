@@ -17,7 +17,8 @@ I am a passionate frontend developer who loves building modern and responsive we
 ---
 
 ## 🛠️ Skills  
-![My Skills](html,css,js,react,nodejs,git,github)
+![My Skills] 
+(html,css,js,react,nodejs,git,github)
 
 ---
 
